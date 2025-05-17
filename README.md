@@ -1,2 +1,6 @@
-# django_and_react
-Getting started with full stack development using Python or JavaScript can be daunting, mainly if you are a developer already using one of these languages and want to add a second language to your set of skills.
+Full source code for all examples and exercises in React Quickly, Second Edition – published by Manning Publications. 
+
+
+# Источник
+========================================================================================================================
+https://github.com/rq2e/rq2e
